@@ -14,3 +14,6 @@ async function getBuscarLivrosDaAPI() {
     exibirOsLivrosNaTela(livrosComDescontos) 
 
 }
+
+
+
